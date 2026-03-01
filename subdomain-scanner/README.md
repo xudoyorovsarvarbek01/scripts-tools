@@ -65,6 +65,6 @@ The authors and contributors are not responsible for misuse of this tool. Users 
 
 ---
 
-## 👤 Author
+## someone with tools
 
 Built as part of a cybersecurity learning path.

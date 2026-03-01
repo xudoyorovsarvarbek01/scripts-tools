@@ -110,7 +110,7 @@ python3 decryptor.py
 ```
 ---
 
-## 👤 Author
+## someone with tools
 
 Cybersecurity student focused on offensive and defensive research.
  
