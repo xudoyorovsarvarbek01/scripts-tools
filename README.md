@@ -7,7 +7,7 @@ This repository documents my hands-on journey into cybersecurity, scripting, and
 ---
 
 ## Repository Structure
-
+```
 scripts-tools/
 │
 ├── subdomain-scanner/
@@ -18,7 +18,7 @@ scripts-tools/
 │   ├── decryptor.py
 │   └── README.md
 └── utilities/
-
+```
 Each project is contained in its own folder with a dedicated README explaining usage and purpose.
 
 ---
